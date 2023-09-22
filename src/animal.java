@@ -1,6 +1,6 @@
 public class animal {
     public static void main(String[] args) {
-        System.out.println("ashwitha is a giraffe");
+        System.out.println("giraffe is a giraffe");
         System.out.println("4!=4");
         //commentio
         /*rxdtcf g
